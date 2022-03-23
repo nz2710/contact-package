@@ -15,5 +15,12 @@
         "psr-4": {
             "Ngodung\\Contact\\": "src/"
         }
+    },
+    "extra": {
+    "laravel": {
+        "providers": [
+            "Ngodung\\Contact\\ContactServiceProvider"
+        ],
     }
+}
 }
