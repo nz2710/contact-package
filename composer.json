@@ -1,0 +1,19 @@
+{
+    "name": "ngodung/contact",
+    "description": "this test package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "nz2710",
+            "email": "ngoquocdung2710@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Ngodung\\Contact\\": "src/"
+        }
+    }
+}
